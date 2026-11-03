@@ -29,7 +29,6 @@ Het doel van dit project is om op een eenvoudige en interactieve manier de tafel
 ## Gebruikte technologieën
 
 * HTML
-* CSS
 * JavaScript
 
 ## Auteur
